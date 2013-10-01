@@ -675,7 +675,10 @@ a.yuimenulabel, a.yuimenuitemlabel,
 
 #doony-title {
     color: #fff;
-    margin: 5px 10px;
+    margin: 8px 10px;
+    background: url(http://loadimpact.com/static/images/xlogo_white.png) left center no-repeat;
+    text-indent: 240px;
+    width: 240px;
 }
 
 /* copied from twitter bootstrap */
