@@ -554,6 +554,16 @@ textarea
     background-url: none;
     background-image: none;
     border-bottom: 1px solid #ccc;
+    background: #115822;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#196630', endColorstr='#004811');
+    background: -webkit-gradient(linear,left top,left bottom,from(#196630),to(#004811));
+    background: -moz-linear-gradient(top,#196630,#004811);
+    background: -o-linear-gradient(top,#196630,#004811);
+    background: linear-gradient(to bottom,#196630,#004811);
+    height: 52px;
+    -moz-box-shadow: 0px 1px 8px #e4e4e4;
+    -webkit-box-shadow: 0px 1px 8px #e4e4e4;
+    box-shadow: 0px 1px 8px #e4e4e4;
 }
 
 .yui-skin-sam #top-panel img {
